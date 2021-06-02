@@ -1,0 +1,39 @@
+body {
+margin: 0%;
+background-color: #f55c47;
+}
+header{
+  height: 160px;
+}
+header section div #header-main{
+  display: inline-block;
+}
+header section div nav ul li {
+  display: inline-block;
+}
+header section div #img-logo{
+  float: left;
+}
+header section div #header-text{
+  float: left;
+}
+header section div #nav{
+  float: right;
+
+}
+main {
+    background-color: #907fa4;
+    clear: both;
+}
+main #first-section{
+  text-align: center;
+    clear: both;
+}
+
+main #second-section{
+  text-align: left;
+}
+#second-section {
+  display: inline-block;
+}
+
