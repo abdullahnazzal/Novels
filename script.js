@@ -17,7 +17,7 @@ favNovelsFun();
 //   }
 var starsNovelsFun = function () {
   for(i=userRate;i>0;i--){
-    img +="<img src='https://cdn.icon-icons.com/icons2/1863/PNG/512/star-rate_118607.png' />"
+    img +="<img src='star.png' />"
   }
 
   return img;
